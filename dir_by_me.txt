@@ -1,0 +1,6 @@
+index.html
+mycss.css
+myjs.js
+robots.txt
+.htaccess
+.DS_Store
