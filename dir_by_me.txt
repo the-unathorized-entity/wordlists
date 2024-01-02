@@ -1,3 +1,5 @@
+index.php
+index.phps
 robots.txt
 .htaccess
 .DS_Store
