@@ -1,5 +1,6 @@
-index.php
-index.phps
+#index.phps
+#authentication.phps
+#cookie.phps
 robots.txt
 .htaccess
 .DS_Store
